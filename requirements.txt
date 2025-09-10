@@ -1,0 +1,15 @@
+gradio
+transformers
+langchain-community
+groq
+langchain-groq
+langchain
+chromadb
+gtts
+plotly
+pandas
+langdetect
+pypdf
+sentence-transformers
+numpy
+openai-whisper
